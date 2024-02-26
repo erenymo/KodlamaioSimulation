@@ -1,0 +1,14 @@
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/bin/Debug/net8.0/KodlamaioSimulation
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/bin/Debug/net8.0/KodlamaioSimulation.deps.json
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/bin/Debug/net8.0/KodlamaioSimulation.runtimeconfig.json
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/bin/Debug/net8.0/KodlamaioSimulation.dll
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/bin/Debug/net8.0/KodlamaioSimulation.pdb
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.AssemblyInfoInputs.cache
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.AssemblyInfo.cs
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.csproj.CoreCompileInputs.cache
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.dll
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/refint/KodlamaioSimulation.dll
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.pdb
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/KodlamaioSimulation.genruntimeconfig.cache
+/Users/erenymo/Desktop/dev/C#/KodlamaioSimulation/KodlamaioSimulation/obj/Debug/net8.0/ref/KodlamaioSimulation.dll
